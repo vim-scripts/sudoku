@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1331
+
+Easy key bindings for entering Sudoku riddles.
+Creation of fileds, filling in digits and a basic check
+for correctness.
